@@ -7,7 +7,7 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="Image_processing",
+    name="Imagem_processing_chemdexx",
     version="0.0.1",
     author="Sekine",
     

@@ -1,4 +1,4 @@
-# Image Processing
+# Imagem_processing_chemdexx
 
 Description. 
 The package image-Processing is used to:
